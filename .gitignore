@@ -1,0 +1,10 @@
+.Xil/
+prj_PWM.cache/
+prj_PWM.hw/
+prj_PWM.ip_user_files/
+prj_PWM.runs/
+prj_PWM.sim/
+prj_PWM.xpr
+vivado*
+tb/
+src/test_module.v
